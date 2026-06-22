@@ -9,6 +9,3 @@
 	path = linkmapper
 	url = https://github.com/ebenogoe/linkmapper
 	branch = main
-[submodule "qrlabelr"]
-	path = qrlabelr
-	url = https://github.com/awkena/qrlabelr

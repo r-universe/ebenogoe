@@ -5,6 +5,10 @@
 [submodule "FounderForge"]
 	path = FounderForge
 	url = https://github.com/ebenogoe/FounderForge
+[submodule "ggwizard"]
+	path = ggwizard
+	url = https://github.com/ebenogoe/ggwizard
+	branch = main
 [submodule "linkmapper"]
 	path = linkmapper
 	url = https://github.com/ebenogoe/linkmapper

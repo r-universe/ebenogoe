@@ -5,6 +5,10 @@
 [submodule "FounderForge"]
 	path = FounderForge
 	url = https://github.com/ebenogoe/FounderForge
+[submodule "clusnalyst"]
+	path = clusnalyst
+	url = https://github.com/ebenogoe/clusnalyst
+	branch = main
 [submodule "ggwizard"]
 	path = ggwizard
 	url = https://github.com/ebenogoe/ggwizard
